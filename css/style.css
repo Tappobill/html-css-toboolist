@@ -18,7 +18,8 @@ header{
     display: inline-block;
     font-size: 45px;
     font-family: serif;
-    vertical-align: middle;    
+    vertical-align: middle;
+    font-weight: bold;   
   }  
 
   main{    
