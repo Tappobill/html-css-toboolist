@@ -2,11 +2,12 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    list-style-type: none;
   }
 
 header{
     padding: 30px;
-    background-color: lightgray;    
+    background-color: white;   
 }
 
 #logo{
@@ -18,5 +19,130 @@ header{
     font-size: 45px;
     font-family: serif;
     vertical-align: middle;    
+  }  
+
+  main{    
+    padding: 100px;
+    background-color: lightgray;
+  }
+
+  .uno{    
+    background-color: white;
+    padding: 40px;
+  }
+
+  .due{
+    padding: 10px;    
+  }
+
+  hr{
+    margin-top: 20px;
+    margin-left: -50px;
+    margin-right: -50px;
+    color: lightgray;
+  }
+
+  .tre{
+    padding: 30px;
+  }
+
+
+
+  .celeste{
+    padding: 10px;
+    border: #47ADF1 1px solid;
+    border-radius: 15%;
+    background-color: #47ADF1;
+    margin-right: 10px;
+    color: white;    
   }
   
+  .bianco{
+    padding: 10px;
+    border: #dde0e3 1px solid;
+    border-radius: 15%;
+    color: #dde0e3;
+    background-color: white;    
+  }
+
+  .font{
+    font-size: 30px;
+  }
+
+  .tria::before{
+    content: "\25BE";
+    margin-left: -30px;
+  }
+
+  .spazi{
+    margin-left: -25px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    margin-top: 15px;
+  }
+
+  .spazi1{
+    margin-bottom: 40px;
+    margin-top: 15px;
+  }
+
+.circolarec{
+    padding: 10px;
+    border: #47ADF1 1px solid;
+    border-radius: 45%;
+    font-size: 20px;
+    background-color: #47ADF1;
+    color: white;
+}
+
+.viola{
+    background-color: mediumpurple;
+    border: mediumpurple;
+}
+
+.verde{
+    background-color: green;
+    border: green;
+}
+
+.ara{
+    background-color: chocolate;
+    border: chocolate;
+}
+
+.purple{
+    background-color: deeppink;
+    border: deeppink;
+}
+
+.verdec{
+    background-color: lightgreen;
+    border: lightgreen;
+}
+
+.spazi ::before{
+    content:
+}
+
+.check{
+    padding: 2px;
+    border:green 1px solid;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 10px;
+    color: green; 
+}
+
+.cross{
+    padding: 2px;
+    border:red 1px solid;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 10px;
+    color: red;
+}
+
+.font1{
+    font-family: serif;
+    font-weight: bold;
+}
