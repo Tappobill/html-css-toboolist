@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+header{
+    padding: 30px;
+    background-color: lightgray;    
+}
+
+#logo{
+    vertical-align: middle;
+}
+
+  .tobo{
+    display: inline-block;
+    font-size: 45px;
+    font-family: serif;
+    vertical-align: middle;    
+  }
+  
