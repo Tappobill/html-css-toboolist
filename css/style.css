@@ -68,6 +68,8 @@ header{
 
   .font{
     font-size: 30px;
+    font-family: serif;
+    font-weight: bold;
   }
 
   .tria::before{
@@ -137,9 +139,4 @@ header{
     background-color: white;
     margin-right: 10px;
     color: red;
-}
-
-.font1{
-    font-family: serif;
-    font-weight: bold;
 }
