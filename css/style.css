@@ -121,10 +121,6 @@ header{
     border: lightgreen;
 }
 
-.spazi ::before{
-    content:
-}
-
 .check{
     padding: 2px;
     border:green 1px solid;
