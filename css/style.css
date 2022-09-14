@@ -52,7 +52,7 @@ header{
   .celeste{
     padding: 10px;
     border: #47ADF1 1px solid;
-    border-radius: 15%;
+    border-radius: 10px;
     background-color: #47ADF1;
     margin-right: 10px;
     color: white;    
@@ -61,7 +61,7 @@ header{
   .bianco{
     padding: 10px;
     border: #dde0e3 1px solid;
-    border-radius: 15%;
+    border-radius: 10px;
     color: #dde0e3;
     background-color: white;    
   }
@@ -90,7 +90,7 @@ header{
 .circolarec{
     padding: 10px;
     border: #47ADF1 1px solid;
-    border-radius: 45%;
+    border-radius: 20px;
     font-size: 20px;
     background-color: #47ADF1;
     color: white;
